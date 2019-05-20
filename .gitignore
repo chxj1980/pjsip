@@ -1,1 +1,13 @@
 .vscode
+*.vcxproj.user
+pjproject-2.8/lib/*.bsc
+pjproject-2.8/lib/*.lib
+pjproject-2.8/*/build/output/
+pjproject-2.8/third_party/build/*/output/
+pjproject-2.8/*/lib/
+pjproject-2.8/*.opendb
+pjproject-2.8/pjsip-apps/bin/
+pjproject-2.8/pjsip-apps/build/Debug/
+pjproject-2.8/pjsip-apps/build/x64/
+pjproject-2.8/pjsip-apps/src/pjsua/winrt/cli/comp/output/
+pjproject-2.8/pjsip-apps/src/pjsua/winrt/cli/wp8/obj/
