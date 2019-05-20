@@ -11,3 +11,5 @@ pjproject-2.8/pjsip-apps/build/Debug/
 pjproject-2.8/pjsip-apps/build/x64/
 pjproject-2.8/pjsip-apps/src/pjsua/winrt/cli/comp/output/
 pjproject-2.8/pjsip-apps/src/pjsua/winrt/cli/wp8/obj/
+pjproject-2.8/.vs/pjproject-vs14/v14/.suo
+pjproject-2.8/pjproject-vs14.VC.db
